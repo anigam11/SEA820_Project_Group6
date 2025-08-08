@@ -25,6 +25,14 @@ project/
 ├── models/                           # Saved fine-tuned models
 │   ├── Model_distill/
 │   └── Model_roberta/
+
+Links to models:
+
+- distilBert: https://drive.google.com/drive/folders/1MOpi9FGbpD6Jc_Jo45ZOKzsUFTgFq1Cx?usp=sharing
+
+- RoBERTa: https://drive.google.com/drive/folders/1qtg6KsZo103KEXuE9JOeZW4xj3Hz0ejs?usp=sharing 
+
+Link to preprocessed_dataset: https://drive.google.com/file/d/1k2oAXk8DMnkuUblVEMiqO7hRQK-9Ot5C/view?usp=sharing
 ```
 
 All results are attached in the report, as well as the presentation pdf and also the notebooks consist of them
