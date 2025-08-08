@@ -3,7 +3,7 @@
 
 **Project Title**: Detecting AI-Generated Text Using Transformer Models  
 **Dataset**: Preprocessed (CSV), located in `NLP/preprocessed_dataset.csv` (Google Drive)  
-**Baseline Chosen**: Logistic Regression (F1-score: 0.9953)
+**Baseline Chosen**: Naive Bayes - 97.07% Acccuracy
 
 ### Phase 2 Deliverables
 
@@ -33,7 +33,7 @@
 ### Technical Stack
 
 - **Metrics**: Accuracy, Precision, Recall, F1  
-- **Baseline for Comparison**: Logistic Regression (F1-score: 0.9953)
+- **Baseline for Comparison**: Naive bayes (Accuracy: 97.07%)
 
 ---
 
